@@ -36,6 +36,7 @@ The dataset includes detailed information on:
 * Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 Country Median Salaries - Map Chart
+
 <img width="555" height="339" alt="image" src="https://github.com/user-attachments/assets/9b4ae901-eee3-44a1-af15-31c2cb9f53c9" />
 
 * Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
