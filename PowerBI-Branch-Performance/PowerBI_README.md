@@ -6,7 +6,7 @@ An end-to-end Power BI dashboard analysing branch-level sales, purchasing, and p
 
 ## Dashboard Overview
 
-![Dashboard Overview]<img width="1456" height="829" alt="image" src="https://github.com/user-attachments/assets/d3a30f78-e9a7-4ce8-90aa-b125ca79abbb" />
+![Dashboard Overview](<img width="1456" height="829" alt="image" src="https://github.com/user-attachments/assets/d3a30f78-e9a7-4ce8-90aa-b125ca79abbb" />)
 
 
 
