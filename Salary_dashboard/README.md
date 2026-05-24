@@ -37,6 +37,7 @@ The dataset includes detailed information on:
 
 Country Median Salaries - Map Chart
 <img width="555" height="339" alt="image" src="https://github.com/user-attachments/assets/9b4ae901-eee3-44a1-af15-31c2cb9f53c9" />
+
 * Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 * Design Choice: Color-coded map to visually differentiate salary levels across regions.
 * Data Representation: Plotted median salary for each country with available data.
@@ -62,10 +63,12 @@ IF(
 * Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 Background Table
+
 <img width="263" height="218" alt="image" src="https://github.com/user-attachments/assets/c144aac9-c965-4b98-9076-7bca18442f82" />
 
 
 Dashboard Implementation
+
 <img width="659" height="723" alt="image" src="https://github.com/user-attachments/assets/ebbe7c29-61fa-481c-9603-18f8e42d63b1" />
 
 
@@ -78,9 +81,11 @@ Count of Job Schedule Type
 * Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
 
 Background Table
+
 <img width="190" height="117" alt="image" src="https://github.com/user-attachments/assets/cccc06de-b62c-4334-8886-e3f886067984" />
 
 Dashboard Implementation:
+
 <img width="669" height="724" alt="image" src="https://github.com/user-attachments/assets/d46dcff4-01ec-4d5b-a979-a501df84d516" />
 
 Data Validation
